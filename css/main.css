@@ -58,9 +58,17 @@ div {
 
   img.card-img {
     margin: 1em;
-    float: left;
+    display: inline-block;
   }
 
+  h2.card-body {
+    display: inline-block;
+    text-align: center;
+  }
+
+  p.card-body {
+
+  }
 }
 
 @media only screen and (min-width: 38em) {
