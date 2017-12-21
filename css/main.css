@@ -21,9 +21,6 @@ html {
 .cards {
   display: inline-block;
   padding: 0;
-}
-
-ul {
   list-style-type: none;
 }
 
