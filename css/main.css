@@ -18,19 +18,19 @@ html {
   box-sizing: inherit;
 }
 
-h2 {
+.card-body h2 {
   text-align: left;
   margin: 0;
   font-size: 1.5rem;
 }
 
-img {
+.card-img img {
   display: block;
   margin: auto;
   width: 50px;
 }
 
-p {
+.card-body p {
   margin: 0;
 }
 
